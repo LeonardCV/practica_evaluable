@@ -1,0 +1,2 @@
+Creando fichero rama 1
+Conéctate a un repositorio remoto público en GitHub con nombre practica_evaluable y sube la información del repositorio local.

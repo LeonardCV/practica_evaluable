@@ -1,0 +1,2 @@
+Creando fichero rama 2
+En el repositorio local, crea una rama llamada mirama. En ella añade dos archivos, rama1.txt y rama2.txt, modifícalos con varias líneas y valídalos.
